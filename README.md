@@ -1,4 +1,4 @@
-# disease_detection_ceratocysis_spectroscopy
+# disease_detection_ceratocystis_spectroscopy
 This Repository will contain the code used to perform all data analysis described in the following manuscript:
 
 
